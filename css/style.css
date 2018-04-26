@@ -1,0 +1,65 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.navbar-fixed {
+  font-family: 'quicksand'
+}
+
+.slider .btn {
+  margin-top: 20px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'quicksand'
+}
+
+p,
+h5,
+.btn {
+  font-family: 'open sans'
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+.light-blue.darken-2 {
+    background: linear-gradient(#0270ac, #0288d1) !important; }
+
+img.height_stable {
+  height: 1.65em;
+  margin-top: 5px;
+}
+
+.card-title {
+  text-shadow: 2px 2px 2px black;
+}
+
+img.nav_image {
+  height: 2.75em;
+  margin-top: .75em;
+}
+
+.no-mar-bottom {margin-bottom: 0px;}
+.no-mar-top {
+  margin-top: 0px;}
+  .shadow-text {text-shadow: 2px 2px 2px rgba(55,55,55,0.7)}
